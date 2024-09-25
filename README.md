@@ -1,5 +1,5 @@
 # ESP32_CAM_DRV8833
-ESP32_CAM_DRV8833  drives  2 port DRV8833 can driver up to 4 small motors , 1 servo and 1 ch WS2812 LCD via "V7RC app" 
+ESP32_CAM_DRV8833  drives  2 port DRV8833 can driver up to 4 small motors , 1 servo and 1 ch WS2812 LED via "V7RC app" 
 
 This program can work with the V7RC App via the soft WiFi AP of the ESP32 CAM for remote control. The ESP32 CAM, paired with a DRV8833 motor control board, can control two motor channels, one PWM servo, and one WS2812 LED. I hope everyone likes it.
 
